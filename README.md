@@ -17,7 +17,6 @@
 - Я готов к сотрудничеству
 
 ---
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
