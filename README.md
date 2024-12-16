@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1>Hello, I'm Andrey</h1>
+    <h1>Привет, я Андрей!</h1>
     <h4>Data analyst from Moscow</h4>
 </div>
 
@@ -11,10 +11,10 @@
 </div>
 
 ### About me:
-- More than 5 years of experience in data analytics
-- I'm constantly striving for self-development
-- I spend my free time with my family and friends
-- I'm ready to cooperate
+- Более 5 лет опыта работы в области анализа данных
+- Я постоянно стремлюсь к саморазвитию
+- Свободное время провожу с семьей и друзьями
+- Я готов к сотрудничеству
 
 ---
 
@@ -38,11 +38,11 @@
 
 ### My projects:
 
-| Project name | Description | Presented in the project |
+| Наименование проекта | Описания | Инструменты |
 |----------------|-----------------|-----------------|
-|[ProjectsTeam](https://github.com/AndreyTretjak/Projects_team)| The script is designed to process orders for a project team. | Data Preprocessing, Python, PostgreSQL |
-|[Face ID](https://github.com/AndreyTretjak/Face_id)  | This project is an intelligent access control and monitoring system for personnel on the construction site. | Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, Visiology |
-|[Finance](https://github.com/AndreyTretjak/Finance)| This project is designed for a comprehensive analysis of the company's financial performance. | Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, Power BI, Visiology |
-|[My Dashboard](https://github.com/AndreyTretjak/Dashboards)| Examples of my dashboards. | Power BI, Visiology |
+|[ProjectsTeam](https://github.com/AndreyTretjak/Projects_team)| Скрипт предназначен для обработки приказов на команды проектов. | Предварительная обработка данных, Python, PostgreSQL |
+|[Face ID](https://github.com/AndreyTretjak/Face_id)  | Данный проект представляет собой интеллектуальную систему контроля доступа и мониторинга персонала на строительной площадке. | Предварительная обработка данных, Python, PostgreSQL, Visiology |
+|[Finance](https://github.com/AndreyTretjak/Finance)| Этот проект предназначен для комплексного анализа финансовых показателей компании. | Предварительная обработка данных, Python, PostgreSQL, Power BI, Visiology |
+|[My Dashboard](https://github.com/AndreyTretjak/Dashboards)| Примеры моих отчетов и дашбордов. | Power BI, Visiology |
 
 <hr>
