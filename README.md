@@ -43,7 +43,6 @@
 |[Face ID](https://github.com/AndreyTretjak/Face_id)  | This project is an intelligent access control and monitoring system for personnel on the construction site. | Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, Visiology |
 |[Finance](https://github.com/AndreyTretjak/Finance)| This project is designed for a comprehensive analysis of the company's financial performance. | Data Preprocessing, Feature Engineering (Juputer Notebooks), PostgreSQL, Power BI, Visiology |
 |[ProjectsTeam](https://github.com/AndreyTretjak/Projects_team)| The script is designed to process orders for a project team. | Data Preprocessing, Python, PostgreSQL |
-
-
+|[My Dashboard](https://github.com/AndreyTretjak/Dashboards)| Examples of my dashboards. | Power BI, Visiology |
 
 <hr>
